@@ -32,7 +32,7 @@ int main() {
 
 // Function to convert a matrix into sparse matrix format
 void createSparseMatrix(int sparseMatrix[][3], int originalMatrix[][N], int rows, int cols) {
-    //WRITE THE FUNCTION DESPCRIPITION HERE
+    //WRITE THE FUNCTION DESCRIPTION HERE
     
 
 
